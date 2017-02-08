@@ -1,0 +1,51 @@
+======top N = 0.5========
+======Wicoxon tests======
+When comparing node  degrees, the wilcoxon value:(0.0, 0.0)
+When comparing shortest paths, the wilcoxon value:(0.0, 0.0)
+When comparing betweenness, the wilcoxon value:(507259.0, 0.0)
+When comparing closeness, the wilcoxon value:(0.0, 0.0)
+======intersection tests======
+the percentage of intersection of node degrees = 0.986138613861, jaccard similarity = 0.97265625
+the percentage of intersection of paths= 0.629334609657, jaccard similarity = 0.459145327584
+the percentage of intersection of node betweenness= 0.65495049505, jaccard similarity = 0.486934118513
+the percentage of intersection of node closeness= 0.788118811881, jaccard similarity = 0.650326797386
+======repositioning tests======
+the average repositioning of node degrees = 0.0143327734092
+the average repositioning of paths = 0.193277615788
+the average repositioning of betweenness = 0.239441381171
+the average repositioning of closeness = 0.141842708266
+
+======top N = 0.1========
+======Wicoxon tests======
+When comparing node  degrees, the wilcoxon value:(0.0, 0.0)
+When comparing shortest paths, the wilcoxon value:(0.0, 0.0)
+When comparing betweenness, the wilcoxon value:(507259.0, 0.0)
+When comparing closeness, the wilcoxon value:(0.0, 0.0)
+======intersection tests======
+the percentage of intersection of node degrees = 0.992574257426, jaccard similarity = 0.985257985258
+the percentage of intersection of paths= 0.381347262058, jaccard similarity = 0.235595475866
+the percentage of intersection of node betweenness= 0.361386138614, jaccard similarity = 0.220543806647
+the percentage of intersection of node closeness= 0.683168316832, jaccard similarity = 0.518796992481
+======repositioning tests======
+the average repositioning of node degrees = 0.0143327734092
+the average repositioning of paths = 0.193277615788
+the average repositioning of betweenness = 0.239441381171
+the average repositioning of closeness = 0.141842708266
+
+
+======top N = 0.01========
+======Wicoxon tests======
+When comparing node  degrees, the wilcoxon value:(0.0, 0.0)
+When comparing shortest paths, the wilcoxon value:(0.0, 0.0)
+When comparing betweenness, the wilcoxon value:(507259.0, 0.0)
+When comparing closeness, the wilcoxon value:(0.0, 0.0)
+======intersection tests======
+the percentage of intersection of node degrees = 0.926829268293, jaccard similarity = 0.863636363636
+the percentage of intersection of paths= 0.085995733621, jaccard similarity = 0.0449297502266
+the percentage of intersection of node betweenness= 0.658536585366, jaccard similarity = 0.490909090909
+the percentage of intersection of node closeness= 0.707317073171, jaccard similarity = 0.547169811321
+======repositioning tests======
+the average repositioning of node degrees = 0.0143327734092
+the average repositioning of paths = 0.193277615788
+the average repositioning of betweenness = 0.239441381171
+the average repositioning of closeness = 0.141842708266

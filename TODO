@@ -1,0 +1,4 @@
+1. edge changes. add, delete, total
+2. K=5, 30: degree distribution, betweenness, closeness, y-number of nodes, x-degree from small to large
+3. KS-test, evaluate distribution difference
+4. Dataset: Facebook, WikiVote
